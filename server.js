@@ -42,5 +42,5 @@ app.use(function(err, req, res, next) {
   res.redirect('/mydashboard');
 });
 
-var port = 3000;
+var port = process.env.PORT || 3000;
 app.listen(port);
