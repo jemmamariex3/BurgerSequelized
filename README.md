@@ -1,4 +1,18 @@
 # BurgerSequelized
+
+Link to Live Project: https://morning-eyrie-40096.herokuapp.com/
+
+~~~~~
+Technologies Used:
+*HTML
+*MySQL
+*Node
+*Express
+*Handlebars
+*MVC
+~~~~~
+![](http://i.giphy.com/EhSZHMruYxvjO.gif)
+
 ### Overview
 I sequelized the a `Burger` app you made that I made with MySQL, Node, Express, Handlebars and a custom ORM last week. 
 
